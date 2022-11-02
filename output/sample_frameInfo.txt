@@ -1,0 +1,21 @@
+I-frames:
+Total Size: 334156340 bytes
+Count: 9285 frames
+Minimum I-frame Size: 12352 bytes
+Maximum I-frame Size: 81584 bytes
+Average I-frame Size: 35988.84 bytes
+
+B-frames:
+Total Size: 1378006301 bytes
+Count: 90341 frames
+Minimum B-frame Size: 4568 bytes
+Maximum B-frame Size: 47328 bytes
+Average B-frame Size: 15253.39 bytes
+
+P-frames:
+Total Size: 947988072 bytes
+Count: 39625 frames
+Minimum P-frame Size: 5456 bytes
+Maximum P-frame Size: 76032 bytes
+Average P-frame Size: 23923.99 bytes
+
