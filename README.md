@@ -8,10 +8,10 @@ I executed my files on Linux, but you can test it on any operating system if you
 * First, place your video file under the input folder and open a terminal.
 
 * Next, give the execute permission to the “getFrameInfo.sh” bash script, by running the following command:
-**chmod +x getFrameInfo.sh”**
+**"chmod +x getFrameInfo.sh”**
 
 * Now just run the following command:
-**./getFrameInfo.sh <input/video_filename>**
+**"./getFrameInfo.sh <input/video_filename>"**
 
 * You would see some information getting displayed regarding the progress.
 
